@@ -1,9 +1,9 @@
 # Otherism Teaching Module
 
-### 📄 Lecture Handout
+### Lecture Handout
 [Click here to open the PDF](Othering-1.pdf)
 
-### 🎥 Teaching Video
+### Teaching Video
 <video width="600" controls>
   <source src="video1970950183.mp4" type="video/mp4">
   Your browser does not support the video tag.
